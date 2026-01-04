@@ -1,0 +1,39 @@
+🧩 1. Define the Problem
+
+-The company is experiencing uneven mobile sales performance across regions, brands, and months.
+-Despite having strong overall revenue, some brands and cities consistently underperform, and sales fluctuate heavily month-to-month.
+-The dashboard exists to help management identify sales gaps, weak regions, and underperforming product segments.
+
+🧩 2. State the Goal
+
+The goal of the dashboard is to:
+-Track overall mobile sales performance.
+-Compare brand-wise, city-wise, and month-wise revenue and quantity sold.
+-Identify top-selling models and low-performing segments.
+-Support data-driven decisions to improve profitability and inventory planning.
+
+🧩 3. Explain Only Important KPIs / Visuals
+
+-Total Revenue & Total Quantity Sold – to measure business performance.
+-Sales by Brand / Model – to identify best and worst performers.
+-Sales by City / Region – to detect geographical demand patterns.
+-Monthly Sales Trend – to observe seasonality and demand fluctuations.
+-Payment Mode / Customer Type (if available) – to understand buying behavior.
+-These visuals focus management attention on where money is earned and where it is being lost.
+
+🧩 4. Identify the Root Cause
+
+The analysis shows that:
+-A small number of brands and models contribute the majority of revenue, while several products generate very low sales.
+-Certain cities/regions consistently underperform, indicating weak market penetration or poor local promotions.
+-Monthly trends show sales drops in specific periods, suggesting seasonality, stock issues, or ineffective campaigns.
+-The core problem is inefficient product and regional focus, leading to wasted marketing budget and missed revenue opportunities.
+
+🧩 5. Provide a Data-Backed Action Plan
+
+To improve sales performance, the business should:
+-Prioritize top-selling brands and models by increasing stock availability and promotional campaigns.
+-Revise strategy for low-performing cities through localized offers, better distribution, or targeted digital ads.
+-Optimize inventory planning using monthly trend insights to prevent stock-outs and over-stocking.
+-Discontinue or reprice weak products that consistently show low contribution.
+-Use the dashboard monthly to monitor KPIs and adjust marketing spend dynamically instead of relying on assumptions.
